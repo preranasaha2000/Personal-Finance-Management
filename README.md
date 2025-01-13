@@ -1,8 +1,8 @@
-# Personal Finance Management System
+# Banking Management System
 
 ## Overview
 
-This C++ Personal Finance Management System is a versatile console-based application designed to help users manage their financial transactions and investments. It offers a range of features for recording income, expenses, and making investments, with built-in calculations for maturity amounts.
+This C++ Banking Management System is a versatile console-based application designed to help users manage their financial transactions and investments. It offers a range of features for recording income, expenses, and making investments, with built-in calculations for maturity amounts.
 
 ## Features
 
